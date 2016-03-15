@@ -1,0 +1,1 @@
+var vv = angular.module('vaptvupt', ['ui.router', 'ui.materialize', 'idf.br-filters', 'ui.utils.masks']);
