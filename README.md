@@ -5,8 +5,8 @@ Nosso desafio é acrescentar funcionalidades a uma aplicação de pedidos de um 
 de produtos, cadastro de pedidos e listagem de pedidos. Para entender melhor os conceitos envolvidos com um web app,
 implementaremos as funções de alterar e deletar um pedido.
 
-### Backend
-O backend da nossa aplicação é construído sobre o microframework Lumen ([documentação](https://lumen.laravel.com/docs/5.2/routing)). 
+### Tecnologias
+A aplicação é construída com duas tecnologias principais, ambas com bastante abertura no mercado. Abordaremos os principais conceitos envolvidos em cada uma. O backend da nossa aplicação é construído sobre o microframework PHP Lumen ([documentação](https://lumen.laravel.com/docs/5.2/routing)). Já o frontend é construído sobre o framework Javascript AngularJS, da Google (documentação). 
 
 ## Links de estudo e referência
 Recomendo esse webinar da Sensedia para uma compreensão mais sólida de alguns conceitos do design de APIs: https://www.youtube.com/watch?v=psLrAsdHltQ
