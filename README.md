@@ -3,7 +3,7 @@
 ## Desafio
 Nosso desafio é acrescentar funcionalidades a uma aplicação de pedidos de um restaurante. Hoje a aplicação permite cadastro
 de produtos, cadastro de pedidos e listagem de pedidos. Para entender melhor os conceitos envolvidos com um web app,
-implementaremos as funções de alterar e deletar um pedido.
+implementaremos as funções de alterar e deletar um pedido. Quem se sentir a vontade pode [clonar](http://rogerdudler.github.io/git-guide/index.pt_BR.html) este repositório e começar a brincar com o código.
 
 ### Tecnologias
 A aplicação é construída com duas tecnologias principais, ambas com bastante abertura no mercado. Abordaremos os principais conceitos envolvidos em cada uma. O backend da nossa aplicação é construído sobre o microframework PHP Lumen ([documentação](https://lumen.laravel.com/docs/5.2/routing)). Já o frontend é construído sobre o framework Javascript AngularJS, da Google ([resposta no StackOverflow explicando a diferença entre AngularJS e jQuery](http://pt.stackoverflow.com/a/21531), e [documentação](https://docs.angularjs.org/tutorial/step_02)). 
